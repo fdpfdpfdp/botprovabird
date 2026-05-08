@@ -1,0 +1,51 @@
+ID,Nome Italiano,Nome Scientifico,Categoria
+1,Oca selvatica,Anser anser,Anseriformi
+2,Mestolone,Spatula clypeata,Anseriformi
+3,Fischione,Mareca penelope,Anseriformi
+4,Codone comune,Anas acuta,Anseriformi
+5,Alzavola,Anas crecca,Anseriformi
+6,Germano reale,Anas platyrhynchos,Anseriformi
+7,Moriglione,Aythya ferina,Anseriformi
+8,Fagiano comune,Phasianus colchicus,Galliformi
+9,Quaglia,Coturnix coturnix,Galliformi
+10,Piccione selvatico,Columba livia,Columbiformi
+11,Tortora dal collare,Streptopelia decaocto,Columbiformi
+12,Cuculo,Cuculus canorus,Cuculiformi
+13,Rondone comune,Apus apus,Apodiformi
+14,Re di quaglie,Crex crex,Gruiformi
+15,Gallinella d'acqua,Gallinula chloropus,Gruiformi
+16,Folaga,Fulica atra,Gruiformi
+17,Pivieressa,Pluvialis squatarola,Caradriformi
+18,Chiurlo maggiore,Numenius arquata,Caradriformi
+19,Pittima reale,Limosa limosa,Caradriformi
+20,Voltapietre,Arenaria interpres,Caradriformi
+21,Beccaccia,Scolopax rusticola,Caradriformi
+22,Beccaccino,Gallinago gallinago,Caradriformi
+23,Piro piro piccolo,Actitis hypoleucos,Caradriformi
+24,Gabbiano reale,Larus michahellis,Caradriformi
+25,Gabbiano comune,Chroicocephalus ridibundus,Caradriformi
+26,Sterna comune,Sterna hirundo,Caradriformi
+27,Cormorano,Phalacrocorax carbo,Suliformi
+28,Airone cenerino,Ardea cinerea,Pelecaniformi
+29,Garzetta,Egretta garzetta,Pelecaniformi
+30,Fenicottero,Phoenicopterus roseus,Fenicotteriformi
+31,Falco di palude,Circus aeruginosus,Accipitriformi
+32,Poiana,Buteo buteo,Accipitriformi
+33,Sparviere,Accipiter nisus,Accipitriformi
+34,Gheppio,Falco tinnunculus,Falconiformi
+35,Pellegrino,Falco peregrinus,Falconiformi
+36,Upupa,Upupa epops,Bucerotiformi
+37,Martin pescatore,Alcedo atthis,Coraciformi
+38,Picchio rosso maggiore,Dendrocopos major,Piciformi
+39,Gazza,Pica pica,Passeriformi
+40,Ghiandaia,Garrulus glandarius,Passeriformi
+41,Cornacchia grigia,Corvus cornix,Passeriformi
+42,Cinciallegra,Parus major,Passeriformi
+43,Cinciarella,Cyanistes caeruleus,Passeriformi
+44,Rondine,Hirundo rustica,Passeriformi
+45,Codibugnolo,Aegithalos caudatus,Passeriformi
+46,Capinera,Sylvia atricapilla,Passeriformi
+47,Scricciolo,Troglodytes troglodytes,Passeriformi
+48,Merlo,Turdus merula,Passeriformi
+49,Pettirosso,Erithacus rubecula,Passeriformi
+50,Passero d'Italia,Passer italiae,Passeriformi
